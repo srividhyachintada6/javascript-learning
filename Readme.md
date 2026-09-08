@@ -4,7 +4,7 @@ I’m starting a **30-day learning journey** focused on improving my JavaScript 
 
 My goal is to learn by **understanding concepts, writing code, practicing regularly, and building projects** instead of only following tutorials.
 
-## 📅 Learning Plan
+## Learning Plan
 
 ### Days 1–15 — Core JavaScript
 
@@ -18,23 +18,23 @@ Learn React fundamentals and strengthen my skills through hands-on practice and 
 
 Apply everything I learned to build a complete frontend project using React and JavaScript.
 
-## ⏰ Daily Time Commitment
+## Daily Time Commitment
 
 **1.5–2 hours every day**
 
 Each day will include:
 
-* 📖 Learning
-* 💻 Coding practice
-* 🛠️ Hands-on implementation
+* Learning
+* Coding practice
+* Hands-on implementation
 
-## 📌 Progress Sharing
+## Progress Sharing
 
 I’ll upload my daily learning and practice work to GitHub.
 
 > **Learn → Practice → Build → Commit → Share → Repeat 🔁**
 
-## 📊 30-Day Structure
+## 30-Day Structure
 
 | Days  | Focus                         |
 | ----- | ----------------------------- |
@@ -44,7 +44,7 @@ I’ll upload my daily learning and practice work to GitHub.
 
 ---
 
-### 🚀 Starting the Journey
+### Starting the Journey
 
 **Day 1/30 — Let's Begin!**
 
