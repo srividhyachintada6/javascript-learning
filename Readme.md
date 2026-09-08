@@ -27,25 +27,10 @@ Each day will include:
 * 📖 Learning
 * 💻 Coding practice
 * 🛠️ Hands-on implementation
-* 📝 Maintaining notes/progress
-* 🚀 GitHub contribution
 
 ## 📌 Progress Sharing
 
 I’ll upload my daily learning and practice work to GitHub.
-
-Every **2–3 days**, I’ll share my progress on LinkedIn along with my GitHub repository so others can follow my journey.
-
-## 🎯 My Goal
-
-By the end of these 30 days, I aim to:
-
-* Build a strong foundation in JavaScript
-* Become comfortable with React
-* Improve my problem-solving through coding practice
-* Build and complete a frontend project
-* Maintain consistent GitHub contributions
-* Document and share my learning journey
 
 > **Learn → Practice → Build → Commit → Share → Repeat 🔁**
 
